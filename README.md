@@ -23,6 +23,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 *Learn how to use Hugging Face toolkits, step-by-step.*
 * [Official Course](https://huggingface.co/course) (from Hugging Face) - The official course series provided by 🤗 Hugging Face.
 * [transformers-tutorials](https://github.com/nielsrogge/transformers-tutorials) (by @nielsrogge) - Tutorials for applying multiple models on real-world datasets.
+* - [Deploying Hugging Face Models as REST APIs with Flask](https://pythonprohub.com/data-science/project-deploy-hugging-face-api-flask/) - A step-by-step guide to wrapping transformer models in a production-ready Flask API.
 
 ## 🧰 NLP Toolkits
 *NLP toolkits built upon Transformers. Swiss Army!*
